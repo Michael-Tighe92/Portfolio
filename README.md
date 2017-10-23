@@ -1,6 +1,6 @@
 # My Portfolio
 
-## C++ Programs
+## C++ Projects
 
 #### Highest Die - Feb 2017
 
