@@ -1,11 +1,5 @@
-#### Highest Die - Feb 2017
+#### Garage Lab - Oct 2013
 
-- The player starts with $100.
-- The player must make a bet/wager out of their current amount of cash.
-- The object of the game is to roll a higher number over the other player.
-- If there is a draw then the player who rolled first wins by default.
-- If the player rolls a 1 then its an automatic loss
-- If the player rolls a 6 then its an automatic win
-- Each match will change the order on who rolls first.
+- This lab reads in from a file called test and pushes a car's license to a stack. The stack's size is 10, there is two lanes and a street that represent the stack. The cars can only be parked inside of the lanes and not the street. If the car is departing then it searches the stack to determine which lane the car is in. 
 
-Rules and Information are included with the code.
+- Cars that are being moved out of the stack while searching for the departed car get moved to either a lane or street. Cars that have been moved must return to the proper lane when the car is found and departed. This lab also takes into consideration on how many times the car has been moved and will let the user know when departed.
