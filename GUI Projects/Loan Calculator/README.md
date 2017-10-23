@@ -1,21 +1,19 @@
-#### Time Converter - Mar 2014
+#### Loan Calculator - Feb 2014
 
-- A GUI that can convert miltary time into standard time.
-- Includes instructions and rules.
-
+- A GUI that can calculate the loan amount, intrest rate, amount of months and monthly payment.
 
 Starting the program prompts the user a message: 
 
-<br> ![timeconverter1](https://user-images.githubusercontent.com/33012240/31914106-63440cfc-b817-11e7-9223-c2da5221ba4b.png) </br>
+<br> ![loancalculator1](https://user-images.githubusercontent.com/33012240/31915340-1cb6110e-b81c-11e7-871f-a402b3b0a011.png) </br>
 
 <br> Once the user clicks ok: </br>
 
-<br> ![timeconverter2](https://user-images.githubusercontent.com/33012240/31914415-8df0ae78-b818-11e7-8ae0-a1d24d9a245b.png) </br>
+<br> ![loancalculator2](https://user-images.githubusercontent.com/33012240/31915373-40dabe36-b81c-11e7-9305-78c39613267a.png) </br>
 
-<br> By clicking the question mark at the bottom left we can open up the rules and instructions: </br>
+<br> The user can calculate any variable/option given. With this demonstartion I will be finding the Monthly Payment (P): </br>
 
-<br> ![timeconverter3](https://user-images.githubusercontent.com/33012240/31914666-8f6a2ff8-b819-11e7-98e9-1f4ed8c42820.png) </br>
+<br> ![loancalculator3](https://user-images.githubusercontent.com/33012240/31915413-5f37c9a0-b81c-11e7-9ddc-908a53538beb.png) </br>
 
-<br> Here is a demonstration of the conversion. The test I used was 15:25:33. My result was: </br>
+<br> My end result was: </br>
 
-<br> ![timeconverter4](https://user-images.githubusercontent.com/33012240/31914719-c8dd5b5c-b819-11e7-955f-d015c8d4b600.jpg) </br>
+<br> ![loancalculator4](https://user-images.githubusercontent.com/33012240/31915429-6e00ad44-b81c-11e7-9586-7b3e3faf7702.png) </br>
