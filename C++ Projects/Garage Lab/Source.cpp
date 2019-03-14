@@ -5,6 +5,7 @@
 #include<fstream>
 #include"Garage.h"
 using namespace std;
+
 int main()
 {
 	//Creates object out of car struct
